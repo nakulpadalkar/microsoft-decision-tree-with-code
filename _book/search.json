@@ -1,0 +1,82 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Decision Forests for Classification, Regression, Density Estimation, Manifold Learning and Semi-Supervised Learning",
+    "section": "",
+    "text": "Original work by J. Shotton, J. Winn, C. Rother, A. Criminisi, E. Konukoglu",
+    "crumbs": [
+      "Original work by J. Shotton, J. Winn, C. Rother, A. Criminisi, E. Konukoglu"
+    ]
+  },
+  {
+    "objectID": "index.html#original-work-by-j.-shotton-j.-winn-c.-rother-a.-criminisi-e.-konukoglu",
+    "href": "index.html#original-work-by-j.-shotton-j.-winn-c.-rother-a.-criminisi-e.-konukoglu",
+    "title": "Decison Trees and Random Forests",
+    "section": "Original work by J. Shotton, J. Winn, C. Rother, A. Criminisi, E. Konukoglu",
+    "text": "Original work by J. Shotton, J. Winn, C. Rother, A. Criminisi, E. Konukoglu",
+    "crumbs": [
+      "Original work by J. Shotton, J. Winn, C. Rother, A. Criminisi, E. Konukoglu"
+    ]
+  },
+  {
+    "objectID": "index.html#updated-by-nakul-r.-padalkar-for-teaching-ensemble-methods",
+    "href": "index.html#updated-by-nakul-r.-padalkar-for-teaching-ensemble-methods",
+    "title": "Decison Trees and Random Forests",
+    "section": "Updated by Nakul R. Padalkar for Teaching Ensemble Methods",
+    "text": "Updated by Nakul R. Padalkar for Teaching Ensemble Methods\nI do not own the original work. This is an updated version of the original work by J. Shotton, J. Winn, C. Rother, A. Criminisi, E. Konukoglu (Criminisi and Shotton 2013). The original work can be found here and here.",
+    "crumbs": [
+      "Decision Forests for Classification, Regression, Density Estimation, Manifold Learning and Semi-Supervised Learning"
+    ]
+  },
+  {
+    "objectID": "index.html#abstract",
+    "href": "index.html#abstract",
+    "title": "Decision Forests for Classification, Regression, Density Estimation, Manifold Learning and Semi-Supervised Learning",
+    "section": "Abstract",
+    "text": "Abstract\nThis paper presents a unified, efficient model of random decision forests which can be applied to a number of machine learning, computer vision and medical image analysis tasks.\nOur model extends existing forest-based techniques as it unifies classification, regression, density estimation, manifold learning, semisupervised learning and active learning under the same decision forest framework. This means that the core implementation needs be written and optimized only once, and can then be applied to many diverse tasks. The proposed model may be used both in a generative or discriminative way and may be applied to discrete or continuous, labelled or unlabelled data.\nThe main contributions of this paper are: 1) proposing a single, probabilistic and efficient model for a variety of learning tasks; 2) demonstrating margin-maximizing properties of classification forests; 3) introducing density forests for learning accurate probability density functions; 4) proposing efficient algorithms for sampling from the forest generative model; 5) introducing manifold forests for non-linear embedding and dimensionality reduction; 6) proposing new and efficient forest-based algorithms for transductive and active learning.\nWe discuss how alternatives such as random ferns and extremely randomized trees stem from our more general model.\nThis paper is directed at both students who wish to learn the basics of decision forests, as well as researchers interested in our new contributions. It presents both fundamental and novel concepts in a structured way, with many illustrative examples and real-world applications. Thorough comparisons with state of the art algorithms such as support vector machines, boosting and Gaussian processes are presented and relative advantages and disadvantages discussed. The many synthetic examples and existing commercial applications demonstrate the validity of the proposed model and its flexibility.\n\n\n\n\nCriminisi, Antonio, and Jamie Shotton. 2013. Decision Forests for Computer Vision and Medical Image Analysis. Springer Science & Business Media.",
+    "crumbs": [
+      "Original work by J. Shotton, J. Winn, C. Rother, A. Criminisi, E. Konukoglu"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "1  Introduction",
+    "section": "",
+    "text": "This is a book created from markdown and executable code.\nSee Knuth (1984) for additional discussion of literate programming.\n\n\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Introduction</span>"
+    ]
+  },
+  {
+    "objectID": "summary.html",
+    "href": "summary.html",
+    "title": "2  Summary",
+    "section": "",
+    "text": "In summary, this book has no content whatsoever.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Summary</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Criminisi, Antonio, and Jamie Shotton. 2013. Decision Forests for\nComputer Vision and Medical Image Analysis. Springer Science &\nBusiness Media.\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "index.html#updated-for-teaching-ensemble-methods",
+    "href": "index.html#updated-for-teaching-ensemble-methods",
+    "title": "Decision Forests for Classification, Regression, Density Estimation, Manifold Learning and Semi-Supervised Learning",
+    "section": "Updated for Teaching Ensemble Methods",
+    "text": "Updated for Teaching Ensemble Methods\nI do not own the original work. This is an updated version of the original work by J. Shotton, J. Winn, C. Rother, A. Criminisi, E. Konukoglu (Criminisi and Shotton 2013). The original work can be found as articles here and here.",
+    "crumbs": [
+      "Original work by J. Shotton, J. Winn, C. Rother, A. Criminisi, E. Konukoglu"
+    ]
+  }
+]

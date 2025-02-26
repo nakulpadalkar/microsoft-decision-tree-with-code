@@ -1,0 +1,37 @@
+project:
+  type: book
+
+book:
+  title: "Decision Forests for Classification, Regression, Density Estimation, Manifold Learning and Semi-Supervised Learning"
+  author:
+    - name: Antonio Criminisi
+      affiliations:
+        - id: MRL
+          name: Microsoft Research Ltd
+          city: Cambridge
+          state: UK
+    - name: Jamie Shotton
+      affiliations:
+        - ref: MRL
+    - name: Ender Konukoglu
+      affiliations:
+        - ref: MRL
+  date: "2/26/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
